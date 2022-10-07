@@ -1,0 +1,85 @@
+root{
+  --sm: 14px;
+  --md: 16px;
+  --lg: 18px;
+}
+
+body{
+  
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 1000px;
+  margin: auto;
+  border: solid;
+  font-family: Helvetica;
+    
+  color: black;
+ 
+}
+h1 {
+  font-family: Helvetica;
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  background-image: url("li.jpg");
+  font-style: italic;
+  font-weight: 900;
+}
+
+.barra {
+  text-align: center;
+  background-color: white;
+  
+}
+.barra a{
+  display: block;
+  padding: 11px 15px;
+  color:#000000;
+  text-decoration: none;
+  float: center;
+  
+}
+
+.barra a:hover {
+  background-color: #6e70a0;
+
+}
+h4 {
+  color: black
+}
+
+ .titulo{
+  
+  background-color: white;
+  font-size: 20px;
+}
+.titulo h1{
+  
+  margin: 0;
+}
+.titulo h2{
+  
+  margin: 0;
+}
+ ul {
+   list-style-type: square;
+   <ul-ju
+ }
+  margin: 0;
+}
+.im
+.image-1 {
+  
+  width: 600px;
+}
+.image-2{
+  
+  width: 300px;
+}
+.image-3{
+  width: 350px;
+  
+}
+ 
